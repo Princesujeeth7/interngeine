@@ -4,8 +4,8 @@ InternGenie is an intelligent assistant that helps students prepare for internsh
 
 ## 1. Authors  
 This project was collaboratively developed by:  
-- **Bhavesh Chamaria** – [GitHub Profile](https://github.com/bhavesh0609)  
-- **Kasukurthi Sujeeth** – [GitHub Profile](https://github.com/Princesujeeth7)  
+- **Bhavesh Chamaria** [bhavesh0609](https://github.com/bhavesh0609)  
+- **Kasukurthi Sujeeth** [Princesujeeth7](https://github.com/Princesujeeth7)  
 
 
 ---
